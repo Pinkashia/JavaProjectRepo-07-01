@@ -35,6 +35,8 @@ public class Child extends Parent {
 		
 		//c1.set_appr_rate();
 
+		
+		System.out.println("New additions");
 	}
 
 }
